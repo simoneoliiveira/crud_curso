@@ -1,0 +1,25 @@
+{
+  "name": "crud_curso",
+  "version": "1.0.0",
+  "description": "Trabalho de crud curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoneoliiveira/crud_curso.git"
+  },
+  "keywords": [],
+  "author": "Simone Oliveira",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/simoneoliiveira/crud_curso/issues"
+  },
+  "homepage": "https://github.com/simoneoliiveira/crud_curso#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite3": "^6.0.1"
+  }
+}
